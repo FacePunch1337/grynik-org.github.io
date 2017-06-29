@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+* {
+	margin: 0px;
+	padding: 0px;
+	outline: none;
+}
+
+html {height: 100%}
+
+body {
+	background: url(page55.jpg) no-repeat;
+    -moz-background-size: 100%; 
+    -webkit-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%; 
+	font-family: "Orator Std", sans-serif;
+	font-size: 1em;
+	color: #FFFFFF;
+   }
+
+.content {
+	padding: 0px;
+}
+.ab-s {
+	padding: -10px;
+			list-style-type: none;
+}
